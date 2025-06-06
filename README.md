@@ -1,5 +1,3 @@
-# HSV-Plant-disease-classification
- The proposed framework first extracts the features of leaves  using segmented HSV histogram analysis, then the features  extracted are fed to random forest, logistic regression, and  support vector machine for identification as healthy or having  disease in them.
 # 🌿 Plant Leaf Disease Classification using ML & DL Approaches
 This repository presents a hybrid framework for identifying plant leaf diseases using classical **Machine Learning** (ML) algorithms and compares their performance with **Deep Learning** (DL) architectures. The goal is to provide an efficient, accurate, and accessible solution for disease diagnosis in plants, particularly grape leaves, supporting timely agricultural decision-making.
 # 📋 Project Description
