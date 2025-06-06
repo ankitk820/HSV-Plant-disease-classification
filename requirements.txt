@@ -1,0 +1,17 @@
+# Data handling
+pandas==2.0.3
+numpy==1.24.4
+
+# Image processing and feature extraction
+opencv-python==4.7.0.72
+scikit-image==0.21.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2  # Optional but useful for data plots
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Utility
+tqdm==4.65.0
