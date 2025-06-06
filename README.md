@@ -1,6 +1,6 @@
 # 🌿 Plant Leaf Disease Classification using ML & DL Approaches
 This repository presents a hybrid framework for identifying plant leaf diseases using classical **Machine Learning** (ML) algorithms and compares their performance with **Deep Learning** (DL) architectures. The goal is to provide an efficient, accurate, and accessible solution for disease diagnosis in plants, particularly grape leaves, supporting timely agricultural decision-making.
-# 📋 Project Description
+## 📋 Project Description
 Various plant leaves are used in daily life for cooking, medicine, and agriculture. However, plant diseases have a significant impact on crop yield and quality. Accurate and timely diagnosis of these diseases is crucial for effective management.
 This project proposes a framework that:
 - Extracts image features using **segmented HSV histogram analysis**.
